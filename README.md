@@ -20,3 +20,7 @@
 
 ## TOOLS
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Cod-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+
+
+## Most lag
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjeh&layout=compact&theme=github_dark)](https://github.com/igiza1213/github-readme-stats)
