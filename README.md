@@ -23,4 +23,4 @@
 
 
 ## Most lag
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjeh&layout=compact&theme=github_dark)](https://github.com/igiza1213/github-readme-stats)
+
