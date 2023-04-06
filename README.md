@@ -88,6 +88,9 @@
             <img
                 src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"
             />
+            <img
+                src="https://img.shields.io/badge/githubpages-222222?style=flat-square&logo=githubpages&logoColor=white"
+            />
         </div>
     </body>
 </html>
