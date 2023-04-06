@@ -36,22 +36,26 @@
             />
             <br />
             <img
+                src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
+            />
+            <img
+                src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+            />
+            <img
+                src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
+            />
+            <img
+                src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"
+            />
+            <br />
+            <img
                 src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
             />
             <img
                 src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"
             />
             <img
-                src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
-            />
-            <img
                 src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"
-            />
-            <img
-                src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-            />
-            <img
-                src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"
             />
             <img
                 src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"
@@ -61,9 +65,6 @@
         <div align="center">
             <img
                 src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
-            />
-            <img
-                src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
             />
             <img
                 src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"
