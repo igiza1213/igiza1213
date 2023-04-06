@@ -1,13 +1,3 @@
-# 여정
-
-* 여정을 떠나는 중이다
-
-* 길동무 정도는 구하는 중이다
-
-* SPAM 부장
-
-* 미래의 서사
-
 <!DOCTYPE html>
 <html lang="kr">
     <head>
@@ -16,14 +6,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </head>
     <body>
+        <h1 align="center">국재윤</h1>
+        <br />
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>SPAM 부장</li>
+            <li>
+                ! SPAM 웹프로젝트 진행중 !<br />link:
+                <a href="https://github.com/SRHS-SPAM"
+                    >https://github.com/SRHS-SPAM</a
+                >
+            </li>
         </ul>
         <div align="center"><h1>STACK</h1></div>
         <div align="center">
@@ -90,4 +82,3 @@
         </div>
     </body>
 </html>
-
