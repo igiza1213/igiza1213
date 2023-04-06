@@ -1,3 +1,10 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=msg2324's%20Github&fontSize=90)
+
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igiza1213&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igiza1213&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+|--|--|
+</div>
 <!DOCTYPE html>
 <html lang="kr">
     <head>
@@ -7,9 +14,8 @@
     </head>
     <body>
         <br />
-        <h1 align="center">국재윤</h1>
         <ul>
-            <li>SPAM 부장</li>
+            <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부장</li>
             <li>
                 ! SPAM 웹프로젝트 진행중 !<br />link:
                 <a href="https://github.com/SRHS-SPAM"
