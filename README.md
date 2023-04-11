@@ -22,6 +22,8 @@
                     >https://github.com/SRHS-SPAM</a
                 >
             </li>
+            <li>돈도 없어 지식도 없어 도움이 절실해지는 때</li>
+            <li>프로그래밍 세계는 너무넓고 정보는 영어며 잘 찾지도 못하니 어떻게 공부할수 </li>
         </ul>
         <div align="center"><h1>STACK</h1></div>
         <div align="center">
