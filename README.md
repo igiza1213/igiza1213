@@ -17,9 +17,8 @@
         <ul>
             <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부장</li>
             <li>
-                ! SPAM 웹프로젝트 진행중 !<br />link:
                 <a href="https://github.com/SRHS-SPAM"
-                    >https://github.com/SRHS-SPAM</a
+                    >! SPAM 웹프로젝트 진행중 !</a
                 >
             </li>
             <li>돈도 없어 지식도 없어 도움이 절실해지는 때</li>
