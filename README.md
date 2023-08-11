@@ -21,7 +21,7 @@
                     >! SPAM 웹프로젝트 진행중 !</a
                 >
             </li>
-            <li>돈도 없어 지식도 없어 도움이 절실해지는 때</li>
+            <li>프로젝트를 원해요</li>
             <li>
                <a href="https://github.com/Korea-Student-Developer-Club"
                     >KSDC 만관부!</a
@@ -69,11 +69,17 @@
             <img
                 src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"
             />
+            <img
+                src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
+            />
+            <img
+                src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"
+            />
         </div>
         <div align="center"><h1>LEARN</h1></div>
         <div align="center">
             <img
-                src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
+                src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"
             />
             <img
                 src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"
@@ -98,6 +104,9 @@
             />
             <img
                 src="https://img.shields.io/badge/githubpages-222222?style=flat-square&logo=githubpages&logoColor=white"
+            />
+            <img
+                src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
             />
         </div>
     </body>
