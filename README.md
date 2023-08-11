@@ -24,7 +24,7 @@
             <li>돈도 없어 지식도 없어 도움이 절실해지는 때</li>
             <li>
                <a href="https://github.com/Korea-Student-Developer-Club"
-                    >KSDC 만괂부!</a
+                    >KSDC 만관부!</a
                 >
             </li>
         </ul>
