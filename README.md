@@ -13,6 +13,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </head>
     <body>
+        <div align="center">
+          <a href="https://wakatime.com/@018cc8f5-6eae-426d-b27c-06a86341c6ca"><img src="https://wakatime.com/badge/user/018cc8f5-6eae-426d-b27c-06a86341c6ca.svg" alt="Total time coded since Jan 2 2024" /></a>
+        </div>  
         <br />
         <ul>
             <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부장</li>
