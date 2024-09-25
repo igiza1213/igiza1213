@@ -19,17 +19,7 @@
         </div>  
         <br />
         <ul>
-            <li>서울로봇고등학교 프로그래밍 동아리 SPAM 부장</li>
-            <li>
-                <a href="https://github.com/SRHS-SPAM/SPAM-School-Page"
-                    >! SPAM 웹프로젝트 진행중 !</a
-                >
-            </li>
-            <li>
-               <a href="https://github.com/Korea-Student-Developer-Club"
-                    >KSDC 만관부!</a
-                >
-            </li>
+            <li>서울로봇고등학교 프로그래밍 동아리 SPAM 前부장</li>
         </ul>
         <div align="center"><h1>STACK</h1></div>
         <div align="center">
