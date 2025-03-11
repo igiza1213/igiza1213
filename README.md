@@ -20,6 +20,7 @@
         <br />
         <ul>
             <li>서울로봇고등학교 프로그래밍 동아리 SPAM 前부장</li>
+            <li>삼성전자 AI센터 물류자동화팀 現신입 사원</li>
         </ul>
         <div align="center"><h1>STACK</h1></div>
         <div align="center">
