@@ -18,10 +18,6 @@
           <a href="https://wakatime.com/@018cc8f5-6eae-426d-b27c-06a86341c6ca"><img src="https://wakatime.com/badge/user/018cc8f5-6eae-426d-b27c-06a86341c6ca.svg" alt="Total time coded since Jan 2 2024" /></a>
         </div>  
         <br />
-        <ul>
-            <li>서울로봇고등학교 프로그래밍 동아리 SPAM 前부장</li>
-            <li>Certi ADV. 도전</li>
-        </ul>
         <div align="center"><h1>STACK</h1></div>
         <div align="center">
             <img
