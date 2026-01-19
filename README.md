@@ -4,6 +4,7 @@
 
 |[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=igiza1213&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igiza1213&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 |--|--|
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=igiza1213)](https://solved.ac/igiza1213)
 
 </div>
 <!DOCTYPE html>
@@ -16,6 +17,7 @@
     <body>
         <div align="center">
           <a href="https://wakatime.com/@018cc8f5-6eae-426d-b27c-06a86341c6ca"><img src="https://wakatime.com/badge/user/018cc8f5-6eae-426d-b27c-06a86341c6ca.svg" alt="Total time coded since Jan 2 2024" /></a>
+          
         </div>  
         <br />
         <div align="center"><h1>STACK</h1></div>
